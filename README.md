@@ -5,7 +5,9 @@ your phone (real-time touch joystick over WiFi/WebSocket), animates its two arms
 run a short autonomous dance. A Bluetooth **Xbox One 1708** can also control it directly.
 Brain: an **ESP32-S3**.
 
-![Léo the robot](REPLACE_with_a_photo.jpg)
+[![Watch Léo in action on YouTube](https://i.ytimg.com/vi/PsJQY4d_7_U/hqdefault.jpg)](https://youtube.com/shorts/PsJQY4d_7_U)
+
+[▶ Watch the demo on YouTube Shorts](https://youtube.com/shorts/PsJQY4d_7_U)
 
 ---
 
