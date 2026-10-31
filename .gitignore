@@ -2,3 +2,9 @@
 *.elf
 build/
 .DS_Store
+
+# Local builds and test artifacts
+build-xbox/
+build-github/
+node_modules/
+telecommande-mobile.png
